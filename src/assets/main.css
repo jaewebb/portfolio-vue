@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: rgb(255, 255, 255);
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(2, 6, 23)
+    )
+  rgb(15, 23, 42);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+h1, .h1 {
+  font-family: 'Oxanium', sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: .5rem;
+}
+
+h2, .h2 {
+  font-family: 'Oxanium', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 300;
+  margin-bottom: .5rem;
+}
+
+h3, .h3 {
+  font-family: 'Oxanium', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 300;
+}
+
+h4, .h4 {
+  font-family: 'Oxanium', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 300;
+}
+
+h5, .h5 {
+  font-family: 'Oxanium', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+h6, .h6 {
+  font-family: 'Oxanium', sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+ul {
+  margin-bottom: 1rem;
+}
+
+.skill-box-blue {
+  border: 2px solid theme('colors.sky.400');
+}
+
+.skill-box-lime {
+  border: 2px solid theme('colors.lime.400');
+}
+
+.skill-box {
+  border-radius: 1rem;
+}
+
+.subtitle {
+  font-size: 0.8rem;
+  font-weight: 300;
+  margin-bottom: 0;
+}

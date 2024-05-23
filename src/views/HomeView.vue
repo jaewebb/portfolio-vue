@@ -13,9 +13,9 @@
         2xl:w-1/2 w-full
         mx-auto"
     >
-      <div class="md:block hidden">
+      <div class="md:block hidden mr-2">
         <h2 class="text-lime-500 neon-green">Jae Webb</h2>
-        <h3 class="text-sky-500 neon-blue">Senior App Developer</h3>
+        <h3 class="text-sky-500 neon-blue">Senior Web Application Developer</h3>
       </div>
       <div class="md:w-2/4 w-full">
         <h1 class="text-lime-500">Mobile Friendly Web Sites and Apps</h1>

@@ -18,7 +18,7 @@
         </a>
         <div class="md:hidden block grow text-right">
           <h2 class="text-lime-500">Jae Webb</h2>
-          <h3 class="text-sky-500">Senior App Developer</h3>
+          <h3 class="text-sky-500">Senior Web Application Developer</h3>
         </div>
       </div>
       <nav class="flex justify-between md:my-0 my-10">

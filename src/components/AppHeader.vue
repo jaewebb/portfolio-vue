@@ -5,7 +5,7 @@
         flex md:flex-row flex-col
         justify-between
         md:mb-5
-        2xl:w-1/2 w-full
+        2xl:w-2/3 w-full
         2xl:mx-auto"
       >
       <div class="flex justify-between">

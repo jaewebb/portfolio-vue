@@ -30,11 +30,6 @@ const router = createRouter({
       component: () => import('@/views/ContactView.vue')
     },
     {
-      path: '/javascript',
-      name: 'contact',
-      component: () => import('@/views/JavascriptSkillView.vue')
-    },
-    {
       path: '/:pathMatch(.*)*',
       name: 'NotFound',
       component: () => import('../views/404View.vue')

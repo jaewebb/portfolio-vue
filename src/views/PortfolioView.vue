@@ -8,8 +8,12 @@
       </p>
       <h2 class="h4 text-lime-500">Github</h2>
       <p>Visit my <a href="https://github.com/jaewebb" class="underline">GitHub</a> page to check out my code</p>
-      <h2 class="h4 text-lime-500">Works in Progress:</h2>
       <ul>
+        <li>
+          <a href="https://portfolio-dashboard-jae.vercel.app/" target="_blank">
+            <span class="underline">MakenBank</span>, a sample dashboard
+          </a>
+        </li>
         <li>
           <a href="https://mint-salon.vercel.app/" target="_blank">
             <span class="underline">Mint Salon</span>, a salon site

@@ -10,6 +10,11 @@
       <p>Visit my <a href="https://github.com/jaewebb" class="underline">GitHub</a> page to check out my code</p>
       <ul>
         <li>
+          <a href="https://jae-webb-character-sheet.vercel.app/" target="_blank">
+            <span class="underline">My Character Sheet</span>, a profile in the style of D&D
+          </a>
+        </li>
+        <li>
           <a href="https://portfolio-dashboard-jae.vercel.app/" target="_blank">
             <span class="underline">MakenBank</span>, a sample dashboard
           </a>

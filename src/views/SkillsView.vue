@@ -116,6 +116,7 @@
             <h2 class="h4 text-sky-40">Wishlist</h2>
             <ul>
               <li>Redux</li>
+              <li>Material UI</li>
               <li>NestJS</li>
               <li>React Native</li>
               <li>Laravel</li>

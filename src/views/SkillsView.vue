@@ -78,7 +78,7 @@
 
         <div
           class="
-          flex flex-col justify-between
+            flex flex-col justify-between
             skill-box skill-box-lime
             drop-shadow
             text-lime-400
@@ -113,13 +113,13 @@
             md:px-5 md:py-4 px-3 py-2"
           >
           <div>
-            <h2 class="h4 text-sky-40">Skills I'd like to learn</h2>
+            <h2 class="h4 text-sky-40">Wishlist</h2>
             <ul>
-              <li>Flutter</li>
+              <li>Redux</li>
+              <li>NestJS</li>
               <li>React Native</li>
               <li>Laravel</li>
               <li>GoLang</li>
-              <li>Python</li>
             </ul>
           </div>
           <h3 class="subtitle text-sky-400">
